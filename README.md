@@ -3,7 +3,7 @@
 
 
 
-![Erkan's Github Stats](https://github-readme-stats.vercel.app/api?username=nozkok&count_private=true&show_icons=true&theme=vue-dark&include_all_commits=true)
+![Erkan's Github Stats](https://github-readme-stats.vercel.app/api?username=nozkok&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true)
 
 
 
