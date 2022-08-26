@@ -44,14 +44,10 @@
 
 
 ## 📈 GitHub Profile Stats:
-<details>
-  <summary>Click for details</summary>
-  <img alt="Trophy" style="margin-left:20px" src="https://github-profile-trophy.vercel.app/?username=nozkok&title=MultiLanguage,Commits,Followers,Repositories&theme=gruvbox&no-frame=true" />
-  <br>
-  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nozkok&theme=gotham&hide_border=true" />
-  <br>
-  <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=nozkok&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true" />
-</details>
+
+<img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=nozkok&title=MultiLanguage,Commits,Followers,Repositories&theme=gruvbox&no-frame=true" />
+<img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nozkok&theme=gotham&hide_border=true" />
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=nozkok&count_private=true&show_icons=true&theme=gotham&include_all_commits=true&hide_border=true" />
 
 
 
