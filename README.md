@@ -1,6 +1,9 @@
 ## ✋  Hello, I'm Erkan
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Erkan;I+am+a+software+engineer;I+love+Laravel%2C+Vue+and+AWS)](https://git.io/typing-svg)
+
+
 ## 🛠️ My Tools:
 
 
@@ -13,7 +16,7 @@
 
 ## 📈 GitHub Profile Stats:
 
-<img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=nozkok&title=MultiLanguage,Commits,Followers,Repositories" />
+<img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=nozkok&title=MultiLanguage,Commits,Followers,Repositories&theme=gruvbox&no-frame=true" />
 
 
 <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=nozkok&theme=gotham&hide_border=true" />
@@ -32,7 +35,3 @@
 </a>
 </div>
 
-
-<div align="center">
-    <img alt="Visitor Count" src="https://profile-counter.glitch.me/nozkok/count.svg"/>
-</div>
